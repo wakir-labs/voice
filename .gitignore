@@ -1,0 +1,13 @@
+# Python (placeholder for when content arrives)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
